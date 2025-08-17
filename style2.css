@@ -1,0 +1,105 @@
+#countlable {
+  display: block;
+  text-align: center;
+  font-size: 10em;
+}
+#btnContainer {
+  text-align: center;
+}
+
+.button {
+  padding: 10px 20px;
+  font-size: 2em;
+  color: white;
+  background-color: rgb(164, 164, 231);
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.1s;
+}
+
+.button:hover {
+  background-color: rgb(105, 105, 192);
+}
+body {
+  background-color: burlywood;
+}
+form {
+  background-color: rgb(141, 73, 73);
+  text-align: center;
+  margin: auto;
+  max-width: 500px;
+  border-radius: 10px;
+}
+#textbox {
+  text-align: center;
+  width: 50%;
+  font-size: 2em;
+  border: 2px solid;
+  border-color: rgb(5, 119, 57);
+  border-radius: 4px;
+  margin-bottom: 15px;
+}
+
+label {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+button {
+  margin-top: 14px;
+  background-color: rgb(39, 24, 78);
+  color: white;
+  font-size: 1.5em;
+  border: none;
+  padding: 7px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: red;
+}
+#result {
+  font-size: 1.75em;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+#btnContainer {
+  text-align: center;
+}
+.counter {
+  text-align: center;
+}
+#countlable {
+  font-size: 4em;
+}
+#mybox {
+  width: 100px;
+  height: 100px;
+  background-color: gray;
+  border-radius: 10px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+}
+#p0 {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 20px;
+}
+#p1 {
+  text-align: center;
+  padding-bottom: 20px;
+  font-size: larger;
+}
+/*for sliding*/
+/* .slides img {
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.slider {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  margin: auto;
+} */
