@@ -1,0 +1,6 @@
+h2,h1{
+    background: -webkit-gradient(linear, left top, left bottom, from(#a77373), to(#54c74a));
+    color: darkred;
+    text-align: center;
+    font-size: 50px
+}
